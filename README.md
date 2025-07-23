@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Dikshant Dhanawade</h1>
-<h3 align="center">🚀 Passionate about Building Efficient Code | Problem Solver | Tech Explorer</h3>
+<h3 align="center">🚀 B.Tech Student | java Problem Solver | Tech Explorer</h3>
 
 ---
 
@@ -45,6 +45,5 @@
   <a href="https://github.com/dikshantdhanawade"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
