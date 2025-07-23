@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Dikshant Dhanawade</h1>
-<h3 align="center">🚀 B.Tech student | Java/C++ Programer | Tech Explorer</h3>
+<h3 align="center">🚀 Passionate about Building Efficient Code | Problem Solver | Tech Explorer</h3>
 
 ---
 
@@ -33,7 +33,7 @@
 
 - Full Stack Web Development (MERN Stack)
 - Data Structures and Algorithms
-- Advance Java
+- Open Source Contribution
 
 ---
 
