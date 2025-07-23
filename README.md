@@ -1,49 +1,58 @@
-<h1 align="center">Hey 👋, I'm Dikshant Dhanawade</h1>
-<h3 align="center">🚀 B.Tech Student | java Problem Solver | Tech Explorer</h3>
+# 👋 Hi there, I'm Dikshant Dhanawade!
+
+🎓 B.Tech Student | 💻 Front-End Developer | ☕ Java & Python Enthusiast
+
+
 
 ---
 
-## 🧰 My Toolbox
+## 🧩 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
-</p>
+- 🔭 I’m currently working on: **Java + MySQL based full-stack projects**
+- 👯 I’m open to collaborating on: **Mini Projects, Open Source, and College Projects**
+- 🧠 I also enjoy practicing **Data Structures and Algorithms**
 
 ---
 
-## 📈 GitHub Activity
+## 🔧 Tools & Tech
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **School Management System** | Java, MySQL | A console + GUI-based CRUD app with student/teacher modules. |
+| **Weather App** | HTML, CSS, JS, API | Fetches real-time weather data based on city input. |
+| **Portfolio Website** | HTML, CSS, JavaScript | Personal responsive portfolio website. |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23UAM028&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=23UAM028&show_icons=true&theme=gruvbox" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23UAM028&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23UAM028&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=23UAM028&theme=gruvbox" />
 </p>
 
 ---
 
-## 🧩 Currently Learning
+## 📫 Connect with Me
 
-- Full Stack Web Development (MERN Stack)
-- Data Structures and Algorithms
-- Open Source Contribution
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dikshantdhanawade)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:dikshant.dhanawade@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/dikshantdhanawade)
 
 ---
 
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/dikshantdhanawade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dikshant.dhanawade@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/dikshantdhanawade"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-
-
+> ⚡ *"Consistency is more important than perfection."*
